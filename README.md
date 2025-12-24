@@ -3,7 +3,7 @@ Note regarding language: This project, including the script interface, documenta
 
 Dette script er udviklet til at automatisere opsætningen af Windows-maskiner i Milestone XProtect-miljøer. Formålet er at eliminere manuelle konfigurationsfejl og sikre, at hardwaren yder maksimalt uden afbrydelser fra Windows' standardfunktioner.
 
-[Download VmsScript.bat](https://raw.githubusercontent.com/Brugernavn/Repo/main/VmsScript.bat?download=true)
+[Download VmsScript.bat](https://raw.githubusercontent.com/Brugernavn/Repo/main/VmsScript.bat) (Højreklik og vælg "Gem link som...")
 
 Formål
 Windows er fra fabrikken optimeret til strømbesparelse og kontorbrug. I et professionelt VMS-miljø er dette uhensigtsmæssigt, da det kræver uafbrudt drift, konstant disk-skrivning og øjeblikkelig CPU-respons. Dette script konfigurerer systemet til dedikeret 24/7 overvågningsdrift.
